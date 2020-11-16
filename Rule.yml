@@ -3,3 +3,5 @@
 - DOMAIN-SUFFIX,wld.net,DIRECT
 - DOMAIN-SUFFIX,zhihu.com,Proxy
 - DOMAIN-SUFFIX,csdn.net,Proxy
+- DOMAIN-SUFFIX,csdn.net,Proxy
+- DOMAIN-SUFFIX,blog.csdn.net,Proxy
