@@ -2,6 +2,7 @@
 - DOMAIN-SUFFIX,welab-inc.com,DIRECT
 - DOMAIN-SUFFIX,wld.net,DIRECT
 - DOMAIN-SUFFIX,zhihu.com,Proxy
+- DOMAIN-SUFFIX,zhimg.com,Proxy
 - DOMAIN-SUFFIX,csdn.net,Proxy
 - DOMAIN-SUFFIX,csdnimg.cn,Proxy
 - DOMAIN-SUFFIX,blog.csdn.net,Proxy
